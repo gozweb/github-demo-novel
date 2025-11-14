@@ -1,2 +1,4 @@
+OUTLINE:
 Chapter 1
--we met Nick, Tom and John.
+-we met Nick, Tom and John, David , Kathi.
+- NodeJS Python Interface GTK Lipsum Rails .NET 
